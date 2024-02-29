@@ -1,1 +1,1 @@
-# COSC107
+Cosc-107 project
